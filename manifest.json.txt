@@ -1,6 +1,7 @@
 {
   "name": "IQ Quiz",
   "short_name": "IQQuiz",
+  "description": "Test your IQ with fun and challenging questions!",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#4facfe",
